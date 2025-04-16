@@ -1,0 +1,143 @@
+[
+    {
+      "index": 1,
+      "hint1": "Hot and found in the kitchen",
+      "hint2": "Can boil water",
+      "hint3": "Has a handle",
+      "answers": ["kettle"]
+    },
+    {
+      "index": 2,
+      "hint1": "Has hands but no arms",
+      "hint2": "It ticks",
+      "hint3": "Found on a wall or a wrist",
+      "answers": ["clock"]
+    },
+    {
+      "index": 3,
+      "hint1": "Has pages but no story",
+      "hint2": "Used to plan",
+      "hint3": "Starts with January",
+      "answers": ["calendar"]
+    },
+    {
+      "index": 4,
+      "hint1": "You walk into it",
+      "hint2": "It opens and closes",
+      "hint3": "It's on a hinge",
+      "answers": ["door"]
+    },
+    {
+      "index": 5,
+      "hint1": "Follows you everywhere",
+      "hint2": "Only appears with light",
+      "hint3": "Can be long or short",
+      "answers": ["shadow"]
+    },
+    {
+      "index": 6,
+      "hint1": "You throw it away when you need it",
+      "hint2": "You take it back when you’re done",
+      "hint3": "It floats",
+      "answers": ["anchor"]
+    },
+    {
+      "index": 7,
+      "hint1": "Has teeth but doesn't bite",
+      "hint2": "You use it every morning",
+      "hint3": "Plastic or bamboo",
+      "answers": ["toothbrush"]
+    },
+    {
+      "index": 8,
+      "hint1": "Always ahead of you",
+      "hint2": "But never in sight",
+      "hint3": "You chase it but never reach it",
+      "answers": ["future"]
+    },
+    {
+      "index": 9,
+      "hint1": "You break it by saying it",
+      "hint2": "It’s quiet",
+      "hint3": "Common in libraries",
+      "answers": ["silence"]
+    },
+    {
+      "index": 10,
+      "hint1": "It’s full of holes",
+      "hint2": "But holds water",
+      "hint3": "Found in kitchens",
+      "answers": ["sponge"]
+    },
+    {
+      "index": 11,
+      "hint1": "Flies without wings",
+      "hint2": "Runs but never walks",
+      "hint3": "You can lose it",
+      "answers": ["time"]
+    },
+    {
+      "index": 12,
+      "hint1": "I have a neck but no head",
+      "hint2": "Sometimes made of glass",
+      "hint3": "Holds liquid",
+      "answers": ["bottle"]
+    },
+    {
+      "index": 13,
+      "hint1": "You can fill me up",
+      "hint2": "But I'm already full of holes",
+      "hint3": "Often found in the kitchen sink",
+      "answers": ["strainer", "colander"]
+    },
+    {
+      "index": 14,
+      "hint1": "I'm heavy forward",
+      "hint2": "But you can carry me easily",
+      "hint3": "Found on books",
+      "answers": ["title"]
+    },
+    {
+      "index": 15,
+      "hint1": "My life is measured in hours",
+      "hint2": "I serve by being devoured",
+      "hint3": "I'm fast when I'm thin",
+      "answers": ["candle"]
+    },
+    {
+      "index": 16,
+      "hint1": "You can’t see me",
+      "hint2": "But I make things visible",
+      "hint3": "Traveling fast in straight lines",
+      "answers": ["light"]
+    },
+    {
+      "index": 17,
+      "hint1": "It has no beginning or end",
+      "hint2": "It's round and useful",
+      "hint3": "Invented in ancient times",
+      "answers": ["wheel"]
+    },
+    {
+      "index": 18,
+      "hint1": "The more you take, the more you leave behind",
+      "hint2": "Often found in sand",
+      "hint3": "Follows you around",
+      "answers": ["footsteps"]
+    },
+    {
+      "index": 19,
+      "hint1": "I'm not alive but grow",
+      "hint2": "Don’t have lungs but need air",
+      "hint3": "You find me glowing",
+      "answers": ["fire"]
+    },
+    {
+      "index": 20,
+      "hint1": "You use me to find things",
+      "hint2": "I learn from your clicks",
+      "hint3": "I’m powered by algorithms",
+      "answers": ["search engine", "google"]
+    }
+  ]
+  
